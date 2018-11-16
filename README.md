@@ -1,3 +1,8 @@
+# Forked by https://github.com/nickpegg/ciscolib
+```angular2html
+1.add function cmd_ex to get more page text return
+2.fix bug with function get_hostname
+```
 # Deprecation Notice
 
 This project is officially deprecated. I haven't updated it in years, and it's
